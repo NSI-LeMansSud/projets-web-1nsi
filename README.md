@@ -2,3 +2,4 @@
 
 - Novembre 2026
   - [Projet Agust D](https://nsi-lemanssud.github.io/projets-web-1nsi/agust-d)
+  - [Projet Werenoi](https://nsi-lemanssud.github.io/projets-web-1nsi/werenoi)
