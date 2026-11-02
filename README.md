@@ -1,4 +1,4 @@
 # Pages Web des 1ère NSI DU LPO Le Mans Sud
 
 - Novembre 2026
-  - ![Projet Agust D](https://nsi-lemanssud.github.io/projets-web-1nsi/agust-d)
+  - [Projet Agust D](https://nsi-lemanssud.github.io/projets-web-1nsi/agust-d)
