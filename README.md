@@ -5,3 +5,4 @@
   - [Projet Werenoi](https://nsi-lemanssud.github.io/projets-web-1nsi/werenoi)
   - [Projet Hollow Knight](https://nsi-lemanssud.github.io/projets-web-1nsi/hollow-knight)
   - [Projet Persona](https://nsi-lemanssud.github.io/projets-web-1nsi/persona)
+  - [Projet Pokemon](https://nsi-lemanssud.github.io/projets-web-1nsi/pokemon)
