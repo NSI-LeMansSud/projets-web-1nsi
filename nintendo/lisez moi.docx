@@ -1,0 +1,75 @@
+Code html:
+
+<html>=C'est la balise qui englobe tout le document.
+
+<title>=Donne le titre de la page sur le navigateur
+
+<link>=Relie la page html a un autre fichier
+
+<head>= Contient les information non visible de la page
+
+<body>=Contient les information visible de la page
+
+<header>=Défini l'entête
+
+<section>=Regroupe le contenu avec le même sujet
+
+<footer>=Défini le pied de page
+
+<h1>=Sert à créer le titre principal de la page.
+
+<img src=>=Sert à afficher une image sur ta page HTML.
+
+<p>=Sert à créer un paragraphe de texte
+
+<ul>=Sert à créer une liste à puces.
+
+<li>=Sert à créer un élément dans une liste.
+
+<table>=Sert à créer un tableau dans une page HTML.
+
+<tr>=Sert à créer une ligne dans un tableau.
+
+<th>=Sert à créer une cellule d'en-tête dans un tableau.
+
+
+<td>=Sert à créer une cellule contenant une donnée dans un tableau.
+
+Code css:
+
+background: linear-gradient()Sert à créer un dégradé de couleurs en arrière-plan (Donné par ia)
+
+font-family=Sert à choisir la police d'écriture du texte.
+
+margin=Sert à ajouter de l'espace autour d'un élément, entre cet élément et les éléments qui l'entourent.
+
+color=Sert à choisir la couleur du texte.
+
+width=Sert à définir la largeur d'un élément.(Donné par ia)
+
+border-collapse=Sert surtout à contrôler les bordures d'un tableau HTML.(Donné par ia)
+
+background=Sert à modifier l'arrière-plan d'un élément.(Donné par ia)
+
+border-radius:=Sert à arrondir les coins d'un élément.(Donné par ia)
+
+overflow=Sert à gérer ce qui dépasse de la zone d'un élément.(Donné par ia)
+
+hidden:=Tout ce qui dépasse de l'élément est caché.(Donné par ia)
+
+box-shadow:=Sert à ajouter une ombre autour d'un élément.(Donné par ia)
+
+border-bottom:=Sert à ajouter ou modifier la bordure du bas d'un élément.(Donné par ia)
+
+height:=Sert à définir la hauteur d'un élément.
+
+display=Sert à définir la façon dont un élément est affiché et se place sur la page.
+
+font-size=Sert à définir la taille du texte.
+
+
+
+
+
+
+=
