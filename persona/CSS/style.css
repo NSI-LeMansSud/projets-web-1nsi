@@ -1,0 +1,113 @@
+body.page1{
+  margin:0; 
+  padding:0; 
+  font-size:18px; 
+  font-family:"Snell Roundhand, cursive";  
+  background-image: url('../images/fondsommaire.jpg');
+ background-repeat: no-repeat;
+ background-size: 100% auto;
+ background-attachment: fixed;
+ color : white
+}
+
+body.page2{
+  margin:0; 
+  padding:0; 
+  font-size:18px; 
+  font-family:"Snell Roundhand, cursive";  
+  background-image: url('../images/P3RFOND.jpg');
+ background-repeat: no-repeat;
+ background-size: 100% auto;
+ background-attachment: fixed;
+ color : white
+}
+
+body.page3{
+  margin:0; 
+  padding:0; 
+  font-size:18px; 
+  font-family:"Snell Roundhand, cursive";  
+  background-image: url('../images/P4GFOND.jpg');
+ background-repeat: no-repeat;
+ background-size: 100% auto;
+ background-attachment: fixed;
+ color : white
+}
+
+body.page4{
+  margin:0; 
+  padding:0; 
+  font-size:18px; 
+  font-family:"Snell Roundhand, cursive";  
+  background-image: url('../images/fond-persona5-2.jpg');
+ background-repeat: no-repeat;
+ background-size: 100% auto;
+ background-attachment: fixed;
+ color : white
+}
+
+nav ul {
+list-style-type: none;
+margin: 20px;
+padding: 10px;
+display: flex; /* Aligne les éléments horizontalement */
+justify-content: center;
+gap: 30px;
+}
+
+nav ul li {
+margin-right: 20px;
+
+}
+nav ul li a {
+text-decoration: none; /* Supprime le soulignement */
+color: #f9ff00; /* Couleur du texte */
+background-color: #0772DE; /* Couleur de fond */
+padding: 10px 20px; /* Espacement interne */
+border-radius: 10px; /* Coins arrondis */
+display: inline-block;
+}
+
+nav ul li a:hover {
+	color: #FF8B12;
+	background-color: #024282;
+	transform: scale(1.15);
+}
+
+#header, #footer{
+width : 100%;
+margin:auto;
+text-align: center
+}
+
+.centrervert{
+padding-top: 20px;
+}
+
+#content {
+  width: 90%;
+  margin: 40px auto; /* Centre le bloc de contenu et ajoute de l'espace en haut/bas */
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.50); /* Ajoute un fond sombre semi-transparent pour rendre le texte lisible */
+  border-radius: 8px;
+  text-decoration: none; /* Supprime le soulignement */
+}
+
+#contentP {
+  width: 90%;
+  margin: 40px auto; /* Centre le bloc de contenu et ajoute de l'espace en haut/bas */
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0); /* Ajoute un fond sombre semi-transparent pour rendre le texte lisible */
+  border-radius: 8px;
+  text-decoration: none; /* Supprime le soulignement */
+}
+
+table, th, td {
+	border: 3px solid black;
+	border-collapse: collapse;
+	background-color: rgba(0, 0, 0, 0.30)
+}
+
+th, td {
+	 padding: 8px; 
+}
