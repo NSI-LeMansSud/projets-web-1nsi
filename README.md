@@ -6,3 +6,4 @@
   - [Projet Hollow Knight](https://nsi-lemanssud.github.io/projets-web-1nsi/hollow-knight)
   - [Projet Persona](https://nsi-lemanssud.github.io/projets-web-1nsi/persona)
   - [Projet Pokemon](https://nsi-lemanssud.github.io/projets-web-1nsi/pokemon)
+  - [Projet Nintendo](https://nsi-lemanssud.github.io/projets-web-1nsi/nintendo)
