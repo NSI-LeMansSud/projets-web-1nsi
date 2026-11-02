@@ -1,2 +1,4 @@
-# projets-web-1nsi-
-Pages Web HTML+CSS des 1NSI
+# Pages Web des 1ère NSI DU LPO Le Mans Sud
+
+- Novembre 2026
+  - ![Projet Agust D](https://nsi-lemanssud.github.io/projets-web-1nsi/agust-d)
