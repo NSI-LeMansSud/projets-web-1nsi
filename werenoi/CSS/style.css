@@ -1,0 +1,340 @@
+/* ================================
+   STYLE GENERAL
+   ================================ */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #090909;
+    color: #eeeeee;
+    line-height: 1.6;
+}
+
+/* ================================
+   EN-TETE
+   ================================ */
+
+header {
+    background: linear-gradient(135deg, #050505, #252525);
+    text-align: center;
+    padding: 55px 20px;
+    border-bottom: 3px solid #d4af37;
+}
+
+header h1 {
+    margin: 0;
+    color: #d4af37;
+    font-size: 3.5rem;
+    letter-spacing: 8px;
+}
+
+header p {
+    color: #cccccc;
+    font-size: 1.1rem;
+}
+
+/* ================================
+   NAVIGATION
+   ================================ */
+
+nav {
+    background-color: #111111;
+    text-align: center;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #d4af37;
+}
+
+/* ================================
+   CONTENU
+   ================================ */
+
+main {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+    padding: 40px 0;
+}
+
+section {
+    background-color: #141414;
+    margin-bottom: 35px;
+    padding: 30px;
+    border-radius: 12px;
+    border: 1px solid #292929;
+}
+
+h2 {
+    color: #d4af37;
+    border-bottom: 1px solid #444;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #eeeeee;
+}
+
+p {
+    color: #d5d5d5;
+}
+
+/* ================================
+   PAGE D'ACCUEIL
+   ================================ */
+
+.hero {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.hero div {
+    flex: 1;
+}
+
+.hero img {
+    width: 320px;
+    border-radius: 10px;
+    border: 2px solid #d4af37;
+}
+
+.page-title {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    gap: 25px;
+}
+
+.card {
+    flex: 1;
+    background-color: #1d1d1d;
+    padding: 25px;
+    border-radius: 10px;
+    border-left: 4px solid #d4af37;
+}
+
+.bouton {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 18px;
+    background-color: #d4af37;
+    color: #090909;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.bouton:hover {
+    background-color: white;
+}
+
+/* ================================
+   IMAGES
+   ================================ */
+
+.two-columns,
+.album-intro {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+}
+
+.two-columns > div,
+.album-intro > div {
+    flex: 1;
+}
+
+.two-columns img,
+.album-intro img {
+    width: 330px;
+    max-width: 100%;
+    border-radius: 10px;
+    border: 2px solid #d4af37;
+}
+
+.image-secondaire {
+    width: 45%;
+    max-width: 450px;
+    border-radius: 10px;
+    border: 2px solid #444;
+    float: right;
+    margin: 0 0 20px 30px;
+}
+
+/* ================================
+   TABLEAUX
+   ================================ */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 25px;
+}
+
+th {
+    background-color: #d4af37;
+    color: #080808;
+}
+
+th,
+td {
+    padding: 12px;
+    border: 1px solid #444;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #1d1d1d;
+}
+
+tr:hover {
+    background-color: #292929;
+}
+
+/* ================================
+   LISTE
+   ================================ */
+
+ol {
+    columns: 2;
+    padding-left: 30px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* ================================
+   CHIFFRES
+   ================================ */
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.stats div {
+    background-color: #1d1d1d;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.stats strong {
+    display: block;
+    color: #d4af37;
+    font-size: 1.5rem;
+}
+
+.stats span {
+    color: #bbbbbb;
+}
+
+/* ================================
+   ELEMENT IMPORTANT
+   ================================ */
+
+.important {
+    color: #d4af37;
+    font-weight: bold;
+    border-left: 4px solid #d4af37;
+    padding-left: 15px;
+}
+
+/* ================================
+   SOURCES
+   ================================ */
+
+.sources a {
+    color: #d4af37;
+}
+
+.sources a:hover {
+    color: white;
+}
+
+.retour {
+    display: inline-block;
+    color: #d4af37;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.retour:hover {
+    color: white;
+}
+
+/* ================================
+   PIED DE PAGE
+   ================================ */
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: #050505;
+    border-top: 1px solid #333;
+    color: #888888;
+}
+
+/* ================================
+   RESPONSIVE
+   ================================ */
+
+@media screen and (max-width: 750px) {
+
+    header h1 {
+        font-size: 2.3rem;
+    }
+
+    nav a {
+        display: block;
+        margin: 8px;
+    }
+
+    .hero,
+    .cards,
+    .two-columns,
+    .album-intro {
+        flex-direction: column;
+    }
+
+    .hero img,
+    .two-columns img,
+    .album-intro img {
+        width: 100%;
+    }
+
+    .image-secondaire {
+        float: none;
+        width: 100%;
+        margin: 10px 0 20px 0;
+    }
+
+    .stats {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    ol {
+        columns: 1;
+    }
+}
