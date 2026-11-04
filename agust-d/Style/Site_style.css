@@ -323,3 +323,16 @@ footer{
 	padding-top : 30px;
 	margin-bottom : 0px;
 }
+
+.bandeau-pedagogique {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #ffff00;
+    color: #000;
+    text-align: center;
+    padding: 8px;
+    font-size: 0.9em;
+    font-weight: bold;
+    border-bottom: 2px solid #000;
+}
