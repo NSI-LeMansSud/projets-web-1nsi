@@ -1,5 +1,3 @@
-Portier Younis 103
-
 La création de mon site internet sur Persona:
 
 	utilisation:
@@ -15,5 +13,3 @@ recherches complexes:
 	j'ai cherché comment changer les fond du site en utilisant google et la balise "class" 
 	j'ai cherché pour faire une forme de bouton avec le CSS padding et border radius
 	pour les musiques également avec google pour les introduire en format mp3
-
-veuillez me donner des conseils pour que je puisse m'améliorer et faire mieux la prochaine fois
