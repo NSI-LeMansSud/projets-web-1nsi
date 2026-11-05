@@ -3,6 +3,7 @@
 Ce dépôt regroupe des sites web réalisés par des élèves de Première NSI dans le cadre de leur apprentissage du développement web (HTML et CSS, un peu de Javascript).
 
 L'objectif de ces projets est avant tout pédagogique : découvrir la conception de sites web, mettre en pratique les notions vues en classe et développer sa créativité à travers un projet personnel.
+
 **Ces réalisations sont des travaux d'élèves**.
 Merci de les considérer comme tels et de faire preuve de bienveillance à l'égard des choix de conception, de l'ergonomie, du design ou des éventuelles imperfections qu'ils peuvent contenir.
 
